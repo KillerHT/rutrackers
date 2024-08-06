@@ -2,12 +2,16 @@ udp://opentor.net:6969
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.openbittorrent.com:80/announce
+udp://open.demonii.com:1337
 
-udp://tracker.opentrackr.org:1337/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -16,8 +20,6 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://exodus.desync.com:6969/announce
 
