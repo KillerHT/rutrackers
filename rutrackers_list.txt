@@ -2,13 +2,13 @@ udp://bt.rutor.org:2710
 
 udp://opentor.net:6969
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.publicbt.com:80/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://open.stealth.si:80/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
