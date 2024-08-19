@@ -25,8 +25,8 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+http://bt.desol.one:2710/announce
+
 http://tracker.grepler.com:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
-
-http://bt.desol.one:2710/announce
