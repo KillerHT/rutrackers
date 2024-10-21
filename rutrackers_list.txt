@@ -9,6 +9,7 @@ udp://open.demonii.com:1337
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
